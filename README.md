@@ -1,6 +1,6 @@
 ## makedata4D
 
-making a 4D voxel random blur data 
+making a 4D voxel random blur data  for DIPHA and CubicalRipser
 
 ## Usage:
 
